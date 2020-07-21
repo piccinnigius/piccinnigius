@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giuseppe</h1>
-<h3 align="center">A passionate fullstack (from frontend to robotics!) from Italy  :pizza:</h3>
+<h3 align="center">A passionate fullstack (from frontend to robotics!) developer from Italy  :pizza:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piccinnigius" alt="piccinnigius" /> </p>
 
 - 🔭 I’m currently working on [Jumple](https://www.jumple.it)
